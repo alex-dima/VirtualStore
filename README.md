@@ -1,0 +1,1 @@
+A shop application with the possibility for users to have a wishlist and get notifications for updates on certain products.
